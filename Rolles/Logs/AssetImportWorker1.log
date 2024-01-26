@@ -456,3 +456,287 @@ AssetImportParameters requested are different than current active one (requested
   custom:scripting/monoscript/fileName/GetInstallerTmpFileName.cs: fa7bda723ac795b48e38504727f44981 -> d09e0b5c7a9af5874530e17ef23025f0
   custom:scripting/monoscript/fileName/AssetModificationProcessor.cs: 84d720d70e5c24b7d0630ef5cea215ce -> a602c9e59e7db185e3a0d68d986e6fef
   custom:scripting/monoscript/fileName/IsCollabProjectMigratedResponse.cs: 4c3294c6a51e6f42161d191230692016 -> af2b76c693935deee55cfcaed2aa7568
+========================================================================
+Received Import Request.
+  Time since last request: 338816.846140 seconds.
+  path: Assets/Model/coin
+  artifactKey: Guid(22f76f72ef16ba54797f40639d8d6c5f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Model/coin using Guid(22f76f72ef16ba54797f40639d8d6c5f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b1ffca78b7a675da880c5115dc752bcc') in 0.079469 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Skybox/Texture
+  artifactKey: Guid(ca770855af6ba5941b2f4f6f2cf79359) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Skybox/Texture using Guid(ca770855af6ba5941b2f4f6f2cf79359) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '818fac723951742aa3ff89a55d226fcb') in 0.020415 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Skybox/Texture/Sky-4.hdr
+  artifactKey: Guid(be88cfb0ed2252243bf1d2babbfd53b5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Skybox/Texture/Sky-4.hdr using Guid(be88cfb0ed2252243bf1d2babbfd53b5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '86cf5f96be0c78a5b0e278b866e1f1a8') in 0.112381 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Model
+  artifactKey: Guid(007413dd7986dd34c93906b860b00b29) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Model using Guid(007413dd7986dd34c93906b860b00b29) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8bae5245601eaaa29a5cd8d1a3637db7') in 0.001978 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Model/baseball-player/textures/NorMapAccesorios.png
+  artifactKey: Guid(864a35a80f7eff648b87215d60af3559) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Model/baseball-player/textures/NorMapAccesorios.png using Guid(864a35a80f7eff648b87215d60af3559) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4940ad60db08f5e9ad65d4d3f5ffc232') in 0.028341 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Model/baseball-player/textures/Accesorios_NorMapAccesorios.png
+  artifactKey: Guid(c8409ee694f7b1f44a12a250a8442406) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Model/baseball-player/textures/Accesorios_NorMapAccesorios.png using Guid(c8409ee694f7b1f44a12a250a8442406) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '65c0d31c2f58f6974d4f59fcc2ae5c20') in 0.014828 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Skybox
+  artifactKey: Guid(4e5c237dd2a7e71419b18306f187dea5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Skybox using Guid(4e5c237dd2a7e71419b18306f187dea5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ef27ed8d2dae4f4fbb9674c511388bd8') in 0.003909 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Model/baseball-player
+  artifactKey: Guid(7ede73d25c5056949991bf7429a172b3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Model/baseball-player using Guid(7ede73d25c5056949991bf7429a172b3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '521fdfda51ad9120f0e296bcb9eab214') in 0.002122 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Model/baseball-player/source/CompletJ.fbx
+  artifactKey: Guid(03ccded56f911f843a31de023fa23a19) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Model/baseball-player/source/CompletJ.fbx using Guid(03ccded56f911f843a31de023fa23a19) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '54957df491ec5f734fd526e0f0494837') in 0.096205 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 102
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Skybox/Texture/Sky-3.hdr
+  artifactKey: Guid(5a817d7ded3353146a488c3ec0e7bab6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Skybox/Texture/Sky-3.hdr using Guid(5a817d7ded3353146a488c3ec0e7bab6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '78cc323191aa359f46316860be332bce') in 0.031090 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Model/baseball-player/textures/Ropa_NorMapClothesJ.png
+  artifactKey: Guid(f87b1485c4a55b546b61a69424575db2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Model/baseball-player/textures/Ropa_NorMapClothesJ.png using Guid(f87b1485c4a55b546b61a69424575db2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'cc91dde95310ee5e34df28de64cb49d4') in 0.016093 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Animited
+  artifactKey: Guid(5d68942470ecab24799db3ecea1ab844) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Animited using Guid(5d68942470ecab24799db3ecea1ab844) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c37e572f509c7fe2f1a31cc60b97e3f3') in 0.002060 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Skybox/Texture/Sky-5.hdr
+  artifactKey: Guid(f577a4207e05cdc4c952fc15f4ed1f55) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Skybox/Texture/Sky-5.hdr using Guid(f577a4207e05cdc4c952fc15f4ed1f55) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4e0b2d392774f70c54ff4f95109f7b13') in 0.032515 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 520.190521 seconds.
+  path: Assets/Resources/Model/baseball-player/textures
+  artifactKey: Guid(07ee23bfab11eda4686c9ea60298c754) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Resources/Model/baseball-player/textures using Guid(07ee23bfab11eda4686c9ea60298c754) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '892302b25024575eb1a531d59a9b23b7') in 0.002726 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000621 seconds.
+  path: Assets/Resources/Model/baseball-player/source
+  artifactKey: Guid(011b79feec1686f48a5808d40f9a04b9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Resources/Model/baseball-player/source using Guid(011b79feec1686f48a5808d40f9a04b9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5506690af2402532985961749a61c809') in 0.002551 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Resources/Skybox/Texture
+  artifactKey: Guid(ca770855af6ba5941b2f4f6f2cf79359) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Resources/Skybox/Texture using Guid(ca770855af6ba5941b2f4f6f2cf79359) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0558caf6e99da3d3536fa1f12d1d7285') in 0.009164 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Resources/Skybox/Texture/Sky-2.hdr
+  artifactKey: Guid(c01fc2bc2ee35bb40bc54ed635cd5d4b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Resources/Skybox/Texture/Sky-2.hdr using Guid(c01fc2bc2ee35bb40bc54ed635cd5d4b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '23f1b14225356e4c31cfcc938f4ee002') in 0.043028 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Resources/Music
+  artifactKey: Guid(957d3b1dc152cf547a3c536a71814733) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Resources/Music using Guid(957d3b1dc152cf547a3c536a71814733) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c2407ccdc5b3819f47d66b8cd8a1a3ed') in 0.002770 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Resources/Skybox/Texture/Materials/Sky-5.mat
+  artifactKey: Guid(928a04c16e00708439d71fe00c4a31ac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Resources/Skybox/Texture/Materials/Sky-5.mat using Guid(928a04c16e00708439d71fe00c4a31ac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '365fa2afcd9a9c6effd38191c8e8f541') in 0.025414 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Resources/Skybox/Texture/Materials/Sky-4.mat
+  artifactKey: Guid(9111ea1d0af51fb46acc0b23cb0386c2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Resources/Skybox/Texture/Materials/Sky-4.mat using Guid(9111ea1d0af51fb46acc0b23cb0386c2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a5a853fc6d4a28cea1afedc8cdf64220') in 0.021486 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Resources/Model/coin/source/coin.fbx
+  artifactKey: Guid(15d79d17ae84a654ab4d50fe0b833bab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Resources/Model/coin/source/coin.fbx using Guid(15d79d17ae84a654ab4d50fe0b833bab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5385bc9e59c35aadbc2b141e6cd6c950') in 0.023918 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Resources/Model/baseball-player/textures/NorMapAccesorios.png
+  artifactKey: Guid(864a35a80f7eff648b87215d60af3559) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Resources/Model/baseball-player/textures/NorMapAccesorios.png using Guid(864a35a80f7eff648b87215d60af3559) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '91b3dee3fa3a7730d93b2c1fc517510f') in 0.014870 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Resources/Skybox
+  artifactKey: Guid(4e5c237dd2a7e71419b18306f187dea5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Resources/Skybox using Guid(4e5c237dd2a7e71419b18306f187dea5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ff02859cddbf048c632cc4ba83404883') in 0.001751 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Resources/Model/baseball-player
+  artifactKey: Guid(7ede73d25c5056949991bf7429a172b3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Resources/Model/baseball-player using Guid(7ede73d25c5056949991bf7429a172b3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7ee2ae547041d29f540f949ad7c06a17') in 0.001741 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Resources/Model/baseball-player/source/CompletJ.fbx
+  artifactKey: Guid(03ccded56f911f843a31de023fa23a19) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Resources/Model/baseball-player/source/CompletJ.fbx using Guid(03ccded56f911f843a31de023fa23a19) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '32dc40457da5e6012913eb759f6cfc50') in 0.027334 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 102
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Resources/Skybox/Texture/Materials
+  artifactKey: Guid(e9431dcc7d3e53847b057c226b5cb3b5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Resources/Skybox/Texture/Materials using Guid(e9431dcc7d3e53847b057c226b5cb3b5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '377d45868872d6341d7848b3e9cc941b') in 0.001941 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Resources/Model/baseball-player/textures/DiffMapClothesJ.png
+  artifactKey: Guid(087b21ed585f85a41b9a53315af645f9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Resources/Model/baseball-player/textures/DiffMapClothesJ.png using Guid(087b21ed585f85a41b9a53315af645f9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a4671630ba5cf793e43339838dda4c77') in 0.016061 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Resources/Animited
+  artifactKey: Guid(5d68942470ecab24799db3ecea1ab844) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Resources/Animited using Guid(5d68942470ecab24799db3ecea1ab844) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f8ee4bb4c6070d2f3bfeced7a1770f56') in 0.002780 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Resources/Skybox/Texture/Materials/Sky-1.mat
+  artifactKey: Guid(f302fca0cf8c80f49955f6642d46ff19) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Resources/Skybox/Texture/Materials/Sky-1.mat using Guid(f302fca0cf8c80f49955f6642d46ff19) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b1cf79962b239602a85d2905f53f8c31') in 0.022428 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Resources/Animited/Convulsing.fbx
+  artifactKey: Guid(c74ee768a56f8824180a20832e352ead) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Resources/Animited/Convulsing.fbx using Guid(c74ee768a56f8824180a20832e352ead) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4c8817aa43633067dbf1a356d5b07089') in 0.028766 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 102
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Resources/Skybox/Texture/Sky-3.hdr
+  artifactKey: Guid(5a817d7ded3353146a488c3ec0e7bab6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Resources/Skybox/Texture/Sky-3.hdr using Guid(5a817d7ded3353146a488c3ec0e7bab6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a823bcbc63b0e11d8a64be1fe039fdcc') in 0.035083 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: ќпераци€ ввода/вывода была прервана из-за завершени€ потока команд или по запросу приложени€.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

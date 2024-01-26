@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: be42db7f9536c454c9d4b29116107d72
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BOOM_2
+    second: {fileID: 2100000, guid: 78f53cc76615e5d48a9e6733581cb933, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRANCHES_BOOM
+    second: {fileID: 2100000, guid: e6598b6d34d6de543874e174121a62b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DEUR
+    second: {fileID: 2100000, guid: db0a1d2e864cad54991229e0d1d17e5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DONT_WATCH_THIS
+    second: {fileID: 2100000, guid: d502089c2b5a3c942a47af5b216b86e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FENCE
+    second: {fileID: 2100000, guid: 7a4ba592a4e385e4b8ba2b42b5ba2e85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MOSS
+    second: {fileID: 2100000, guid: 684ad5c752f987c439980f86c5a121df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_roof
+    second: {fileID: 2100000, guid: f831c69b52f25a54da4ea90cfadea6ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_walls
+    second: {fileID: 2100000, guid: b9d103fb7ced2904bb0aa945a1aa2b11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PLANTEN_1
+    second: {fileID: 2100000, guid: ac326477533630a42928332f8ef844f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PLANT_2
+    second: {fileID: 2100000, guid: efcd494da676a0d41898606b4430067d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PLATFORM_zijkant1
+    second: {fileID: 2100000, guid: 563125f6d89055843b6b0eff9c1aa044, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: POWER_LINE
+    second: {fileID: 2100000, guid: dacc9731a29508e45ba73c68bf6c773b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_Boat_BOOT
+    second: {fileID: 2100000, guid: e390d752420ed7f42ac2b3ee72648ed5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SANDROAD
+    second: {fileID: 2100000, guid: b9f16c88fb0c7664e9d03210cdaf6a6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SOILROUGH
+    second: {fileID: 2100000, guid: 483bae00889d7a143ab6566d9a1f5d30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRAPPEN
+    second: {fileID: 2100000, guid: 04a5a42f76a217246b25cd37ec8a4ad0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UNIQUE_TEXT
+    second: {fileID: 2100000, guid: ff00ebcec44a5504187c206817b4608c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UNIQUE_TEXTURRE
+    second: {fileID: 2100000, guid: db3e4f0b5ac5f214ab9870cb1119b0d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: groundplan_dirt
+    second: {fileID: 2100000, guid: b5961c82df56977478cfa951bf49bb14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: groundplan_leafs
+    second: {fileID: 2100000, guid: db1826efa592ec34bad3a314b3ddea6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: huis_plus_leafs_leafs
+    second: {fileID: 2100000, guid: ef91cc02e8ef6864fbcb009ac226dca7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: huis_plus_leafs_restHOut
+    second: {fileID: 2100000, guid: a263c960ff2fed44096faf1f1f11ee26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ivy_branches
+    second: {fileID: 2100000, guid: dc960698ef349d341aad05d838a5f138, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: ada978e4ab8b3cd4fa643d35306bf0cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lantern_LANTERN
+    second: {fileID: 2100000, guid: 5834132e6c7566d428f96c3054957d14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leaves_op_grond
+    second: {fileID: 2100000, guid: 97a594d1e7f2d3b4db232d4d2120aa28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: onder_water_2
+    second: {fileID: 2100000, guid: 11bacde94aa143340a61d21890f897ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: props_rocks_ROCKS
+    second: {fileID: 2100000, guid: 6d33ac224dfbc024ba79d4625259fa33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sand_and_leafs
+    second: {fileID: 2100000, guid: 1e28c9a34fcf6e64db49455040254bbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tree
+    second: {fileID: 2100000, guid: 4f4e627e3b7b22142a7b8081e98158b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vuilbak_bier
+    second: {fileID: 2100000, guid: be42724f89a617247a8c7e768131c5ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: warning_sing
+    second: {fileID: 2100000, guid: 68b137e22731e52479eec89df9184905, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: water
+    second: {fileID: 2100000, guid: 28d8af860ea98684bbd5e0b811fdf09e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_workspace_WOOD_tileable
+    second: {fileID: 2100000, guid: fbd3040cd3916c94c828c1b113201f11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_workspace_wooden_wagon
+    second: {fileID: 2100000, guid: f2738921b1393f641a2ffc1f11ad9be4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_workspace_woodholder
+    second: {fileID: 2100000, guid: b6b578b420e60fb4d87e52ba5afe4078, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_workspace_workspace
+    second: {fileID: 2100000, guid: 4af1e8e5de20e4d4cbe1aca73dfffc3a, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
