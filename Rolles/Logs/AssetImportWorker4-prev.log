@@ -9,11 +9,11 @@ E:\Unity\2022.3.11f1\Editor\Unity.exe
 -batchMode
 -noUpm
 -name
-AssetImportWorker7
+AssetImportWorker4
 -projectPath
 F:/GitHub/Rolles/Rolles
 -logFile
-Logs/AssetImportWorker7.log
+Logs/AssetImportWorker4.log
 -srvPort
 53634
 Successfully changed project path to: F:/GitHub/Rolles/Rolles
@@ -49,12 +49,12 @@ F:/GitHub/Rolles/Rolles
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [1592] Host "[IP] 192.168.3.2 [Port] 0 [Flags] 2 [Guid] 3342881963 [EditorId] 3342881963 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-4RB6VJ4) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [16024] Host "[IP] 192.168.3.2 [Port] 0 [Flags] 2 [Guid] 2883822844 [EditorId] 2883822844 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-4RB6VJ4) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [1592] Host "[IP] 192.168.3.2 [Port] 0 [Flags] 2 [Guid] 3342881963 [EditorId] 3342881963 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-4RB6VJ4) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [16024] Host "[IP] 192.168.3.2 [Port] 0 [Flags] 2 [Guid] 2883822844 [EditorId] 2883822844 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-4RB6VJ4) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
-Refreshing native plugins compatible for Editor in 4.84 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 5.51 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.11f1 (d00248457e15)
 [Subsystems] Discovering subsystems at path E:/Unity/2022.3.11f1/Editor/Data/Resources/UnitySubsystems
@@ -70,46 +70,46 @@ Initialize mono
 Mono path[0] = 'E:/Unity/2022.3.11f1/Editor/Data/Managed'
 Mono path[1] = 'E:/Unity/2022.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'E:/Unity/2022.3.11f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56788
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56824
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: E:/Unity/2022.3.11f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: E:/Unity/2022.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.004099 seconds.
-- Loaded All Assemblies, in  0.321 seconds
+Registered in 0.004917 seconds.
+- Loaded All Assemblies, in  0.359 seconds
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.244 seconds
-Domain Reload Profiling: 565ms
-	BeginReloadAssembly (92ms)
+- Finished resetting the current domain, in  0.281 seconds
+Domain Reload Profiling: 640ms
+	BeginReloadAssembly (102ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (34ms)
+	RebuildCommonClasses (35ms)
 	RebuildNativeTypeToScriptingClass (12ms)
-	initialDomainReloadingComplete (48ms)
-	LoadAllAssembliesAndSetupDomain (134ms)
-		LoadAssemblies (91ms)
+	initialDomainReloadingComplete (54ms)
+	LoadAllAssembliesAndSetupDomain (155ms)
+		LoadAssemblies (101ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (133ms)
-			TypeCache.Refresh (132ms)
-				TypeCache.ScanAssembly (120ms)
+		AnalyzeDomain (154ms)
+			TypeCache.Refresh (152ms)
+				TypeCache.ScanAssembly (137ms)
 			ScanForSourceGeneratedMonoScriptInfo (0ms)
-			ResolveRequiredComponents (0ms)
-	FinalizeReload (244ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (282ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (186ms)
+		SetupLoadedEditorAssemblies (213ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (8ms)
-			SetLoadedEditorAssemblies (5ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (6ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (2ms)
-			ProcessInitializeOnLoadAttributes (126ms)
-			ProcessInitializeOnLoadMethodAttributes (45ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (145ms)
+			ProcessInitializeOnLoadMethodAttributes (49ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -117,8 +117,8 @@ Domain Reload Profiling: 565ms
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.544 seconds
-Refreshing native plugins compatible for Editor in 1.61 ms, found 3 plugins.
+- Loaded All Assemblies, in  0.542 seconds
+Refreshing native plugins compatible for Editor in 2.21 ms, found 3 plugins.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Package Manager log level set to [2]
@@ -126,47 +126,47 @@ Package Manager log level set to [2]
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.514 seconds
-Domain Reload Profiling: 1059ms
-	BeginReloadAssembly (140ms)
+- Finished resetting the current domain, in  0.522 seconds
+Domain Reload Profiling: 1064ms
+	BeginReloadAssembly (128ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (5ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (20ms)
-	RebuildCommonClasses (39ms)
-	RebuildNativeTypeToScriptingClass (13ms)
-	initialDomainReloadingComplete (36ms)
-	LoadAllAssembliesAndSetupDomain (316ms)
-		LoadAssemblies (223ms)
+		CreateAndSetChildDomain (18ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (333ms)
+		LoadAssemblies (220ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (170ms)
-			TypeCache.Refresh (148ms)
-				TypeCache.ScanAssembly (136ms)
-			ScanForSourceGeneratedMonoScriptInfo (16ms)
+		AnalyzeDomain (184ms)
+			TypeCache.Refresh (164ms)
+				TypeCache.ScanAssembly (150ms)
+			ScanForSourceGeneratedMonoScriptInfo (15ms)
 			ResolveRequiredComponents (5ms)
-	FinalizeReload (515ms)
+	FinalizeReload (522ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (368ms)
+		SetupLoadedEditorAssemblies (375ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (5ms)
+			InitializePlatformSupportModulesInManaged (6ms)
 			SetLoadedEditorAssemblies (4ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (54ms)
-			ProcessInitializeOnLoadAttributes (282ms)
-			ProcessInitializeOnLoadMethodAttributes (20ms)
+			BeforeProcessingInitializeOnLoad (55ms)
+			ProcessInitializeOnLoadAttributes (289ms)
+			ProcessInitializeOnLoadMethodAttributes (19ms)
 			AfterProcessingInitializeOnLoad (3ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (6ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 1.54 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 1.51 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3082 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 32 unused Assets / (56.8 KB). Loaded Objects now: 3544.
 Memory consumption went from 121.0 MB to 121.0 MB.
-Total: 2.780700 ms (FindLiveObjects: 0.241500 ms CreateObjectMapping: 0.090400 ms MarkObjects: 2.358400 ms  DeleteObjects: 0.089600 ms)
+Total: 2.768500 ms (FindLiveObjects: 0.212400 ms CreateObjectMapping: 0.089400 ms MarkObjects: 2.361600 ms  DeleteObjects: 0.104500 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:scripting/monoscript/fileName/IncomingChangesTab.cs: acd9ec783d05ec6acce245777b596983 -> af2f8b65a736cbc2c6197311f8f8caf3
@@ -458,58 +458,360 @@ AssetImportParameters requested are different than current active one (requested
   custom:scripting/monoscript/fileName/IsCollabProjectMigratedResponse.cs: 4c3294c6a51e6f42161d191230692016 -> af2b76c693935deee55cfcaed2aa7568
 ========================================================================
 Received Import Request.
-  Time since last request: 350336.062811 seconds.
-  path: Assets/Resources/Model/halloween-cemetery/textures/all_emissive.png
-  artifactKey: Guid(6c43fefddb329ac41a7d32be5328ebfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Model/halloween-cemetery/textures/all_emissive.png using Guid(6c43fefddb329ac41a7d32be5328ebfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbe98ed8676f9390a2ab00a4675dd1bb') in 0.061909 seconds
+  Time since last request: 349210.414165 seconds.
+  path: Assets/Scenes/Test.unity
+  artifactKey: Guid(b2c217531e790ce41ad6e726152460af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Test.unity using Guid(b2c217531e790ce41ad6e726152460af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a30bc6870a97d518b778d3936fb8c4a4') in 0.002524 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.977944 seconds.
+  path: Assets/Scenes/Test.unity
+  artifactKey: Guid(b2c217531e790ce41ad6e726152460af) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/Test.unity using Guid(b2c217531e790ce41ad6e726152460af) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4ca0efd8b091dae7b76e23ea28bd491f') in 0.071065 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 12.242538 seconds.
+  path: Assets/Resources/Model/autumn-forest-wooden-house
+  artifactKey: Guid(78bf5cc266298dc4c97e7c9701da39d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/autumn-forest-wooden-house using Guid(78bf5cc266298dc4c97e7c9701da39d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b86bb890ac8d6c1c68a768a7e829582') in 0.000383 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.173553 seconds.
+  path: Assets/Resources/Model/autumn-forest-wooden-house/textures
+  artifactKey: Guid(56a82813a97b4524bb9b9eecff3a3025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/autumn-forest-wooden-house/textures using Guid(56a82813a97b4524bb9b9eecff3a3025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b56d1f225197d67dbdf3326181a1e0c') in 0.000427 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.332512 seconds.
+  path: Assets/Resources/Model/autumn-forest-wooden-house/source
+  artifactKey: Guid(286ecdee386b5884ca31cb4a9f9c4da9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/autumn-forest-wooden-house/source using Guid(286ecdee386b5884ca31cb4a9f9c4da9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1776122b13f85776d8eb1cd4a999e8d') in 0.000419 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.077085 seconds.
+  path: Assets/Resources/Model/autumn-forest-wooden-house/source/forest_loner.fbx
+  artifactKey: Guid(be42db7f9536c454c9d4b29116107d72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/autumn-forest-wooden-house/source/forest_loner.fbx using Guid(be42db7f9536c454c9d4b29116107d72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaf70cb0e1b21667e887dcea2fcfc15b') in 2.981894 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3290
+========================================================================
+Received Import Request.
+  Time since last request: 5.700221 seconds.
+  path: Assets/Resources/Model/autumn-forest-wooden-house/textures/AO_UNIQUE_TEXT.png
+  artifactKey: Guid(16356afa313edfa42b37ed0ea77ad0a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/autumn-forest-wooden-house/textures/AO_UNIQUE_TEXT.png using Guid(16356afa313edfa42b37ed0ea77ad0a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'babfdc05d406b1b90c18d8d182ab91c8') in 0.016749 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000013 seconds.
-  path: Assets/Resources/Model/halloween-cemetery/textures/road_gloss.png
-  artifactKey: Guid(ab7137522b4ad3d40925b0597017fbc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Model/halloween-cemetery/textures/road_gloss.png using Guid(ab7137522b4ad3d40925b0597017fbc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68a7850b75fec83966fddd6496463464') in 0.012725 seconds
+  Time since last request: 0.000016 seconds.
+  path: Assets/Resources/Model/autumn-forest-wooden-house/textures/T_warning_sing_BC.png
+  artifactKey: Guid(bc1be8c633298404db47a7495341dfca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/autumn-forest-wooden-house/textures/T_warning_sing_BC.png using Guid(bc1be8c633298404db47a7495341dfca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aae54bff11c1ab7567d24e527b6a9107') in 0.007890 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Resources/Model/autumn-forest-wooden-house/textures/BUMP_wood_tileable_BC.png
+  artifactKey: Guid(8643af4ede8bb1d42ac3656af31ed9d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/autumn-forest-wooden-house/textures/BUMP_wood_tileable_BC.png using Guid(8643af4ede8bb1d42ac3656af31ed9d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2557d3f7fa8ae38fb5f8317c3adaaa8e') in 0.010115 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Resources/Model/autumn-forest-wooden-house/textures/T_cliffrough_BC.png
+  artifactKey: Guid(164085e3f2acf554da0602632adc0ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/autumn-forest-wooden-house/textures/T_cliffrough_BC.png using Guid(164085e3f2acf554da0602632adc0ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db31b2fe17019d912d19c8093df94457') in 0.013952 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
   Time since last request: 0.000015 seconds.
-  path: Assets/Resources/Model/halloween-cemetery/textures/all_normal.png
-  artifactKey: Guid(2cf406e83904dd740b59dcfbf9f8ae54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Model/halloween-cemetery/textures/all_normal.png using Guid(2cf406e83904dd740b59dcfbf9f8ae54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b4380cd94fa8e57317b3da5d07156b9') in 0.009529 seconds
+  path: Assets/Resources/Model/autumn-forest-wooden-house/textures/dif_leafs_2_png.png
+  artifactKey: Guid(d459ef2ecd869d24a826348e998dcddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/autumn-forest-wooden-house/textures/dif_leafs_2_png.png using Guid(d459ef2ecd869d24a826348e998dcddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19aa9cad2830b371204d7ac580bcd7f1') in 0.012920 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/Resources/Model/halloween-cemetery/textures/plants_normal__.png
-  artifactKey: Guid(72d3c412dc68a7c49afa1795b2188248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Model/halloween-cemetery/textures/plants_normal__.png using Guid(72d3c412dc68a7c49afa1795b2188248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6200a50a1974c2e5f2c69c83d243d8bd') in 0.017932 seconds
+  Time since last request: 0.000016 seconds.
+  path: Assets/Resources/Model/autumn-forest-wooden-house/textures/OPACITY_leafs_2_png.png
+  artifactKey: Guid(dc43fe80d9f5c1548917e43d19c1db12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/autumn-forest-wooden-house/textures/OPACITY_leafs_2_png.png using Guid(dc43fe80d9f5c1548917e43d19c1db12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c74618c59afd37560e88d6c71ab0f50') in 0.013026 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/Resources/Model/halloween-cemetery/textures/light_gloss.png
-  artifactKey: Guid(50cf465c0fe73e34592aae6d0fd8634b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Model/halloween-cemetery/textures/light_gloss.png using Guid(50cf465c0fe73e34592aae6d0fd8634b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cfd39f8ecc89357e067a5edff5610aa') in 0.009238 seconds
+  Time since last request: 0.000028 seconds.
+  path: Assets/Resources/Model/autumn-forest-wooden-house/textures/T_boom_1_BC.png
+  artifactKey: Guid(3f0494e56d84ef1448ed203c9866c97c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/autumn-forest-wooden-house/textures/T_boom_1_BC.png using Guid(3f0494e56d84ef1448ed203c9866c97c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffdfc79b7702be18c4c256452c22487c') in 0.015069 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
-  Time since last request: 26.563326 seconds.
-  path: Assets/Resources/Model/halloween-cemetery/materials/plants.mat
-  artifactKey: Guid(25d92b382f4960d4db94239b895379b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Model/halloween-cemetery/materials/plants.mat using Guid(25d92b382f4960d4db94239b895379b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb7f1fb3f28e02cfeac1a89d19df6da4') in 0.069707 seconds
+  Time since last request: 0.000012 seconds.
+  path: Assets/Resources/Model/autumn-forest-wooden-house/textures/T_lantern_BC.png
+  artifactKey: Guid(aa7447ce471093e4ea69b5c4061ceb32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/autumn-forest-wooden-house/textures/T_lantern_BC.png using Guid(aa7447ce471093e4ea69b5c4061ceb32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f23da7e8270b8dc55115f2d437cfcbd') in 0.015234 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Resources/Model/autumn-forest-wooden-house/textures/T_PLANT_2_opacity.png
+  artifactKey: Guid(e0e2b9c00bdf3ad49b7930faf13fb6d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/autumn-forest-wooden-house/textures/T_PLANT_2_opacity.png using Guid(e0e2b9c00bdf3ad49b7930faf13fb6d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c33130137741bc17fcc22cefe36232c') in 0.008941 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Resources/Model/autumn-forest-wooden-house/textures/BUMP_groundplan_BC.png
+  artifactKey: Guid(9e99fc2ad92aa994ab8a0db2f079cde7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/autumn-forest-wooden-house/textures/BUMP_groundplan_BC.png using Guid(9e99fc2ad92aa994ab8a0db2f079cde7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5b1edc23d2ed70ad2d7b68ca98eb83f') in 0.012405 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Resources/Model/autumn-forest-wooden-house/textures/T_ROAD_BC.png
+  artifactKey: Guid(14a6d5447036fdc4391a349ebded9058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/autumn-forest-wooden-house/textures/T_ROAD_BC.png using Guid(14a6d5447036fdc4391a349ebded9058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af5488456d5de3403b8c4f74b7f77c09') in 0.013851 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Resources/Model/autumn-forest-wooden-house/textures/T_boot_BC.png
+  artifactKey: Guid(1a6566dc1f93e9940b446812758cd252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/autumn-forest-wooden-house/textures/T_boot_BC.png using Guid(1a6566dc1f93e9940b446812758cd252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee6324b1ebd65eddad42f22ad80498a6') in 0.007367 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Resources/Model/autumn-forest-wooden-house/textures/T_vuilbak+bier_BC.png
+  artifactKey: Guid(d6f73b3ff76bcc8488c6d055909d6398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/autumn-forest-wooden-house/textures/T_vuilbak+bier_BC.png using Guid(d6f73b3ff76bcc8488c6d055909d6398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc1b9d8ab1dfdb0dbf69599d3ddaa950') in 0.011525 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Resources/Model/autumn-forest-wooden-house/textures/T_ROOF_BC.png
+  artifactKey: Guid(8150bb431df2afe42b8daaf578031215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/autumn-forest-wooden-house/textures/T_ROOF_BC.png using Guid(8150bb431df2afe42b8daaf578031215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8afe52ae627bfc23a948a3ff87c1966') in 0.012511 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Resources/Model/autumn-forest-wooden-house/textures/T_FENCE_BC.png
+  artifactKey: Guid(5c032bb3b25b2944a934d21087aaea89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/autumn-forest-wooden-house/textures/T_FENCE_BC.png using Guid(5c032bb3b25b2944a934d21087aaea89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0de4599a53ad917cd32bd047d28ce125') in 0.011661 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Resources/Model/autumn-forest-wooden-house/textures/T_plant_1_opacity.png
+  artifactKey: Guid(38c8cf506295ae6428f97900b71ed660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/autumn-forest-wooden-house/textures/T_plant_1_opacity.png using Guid(38c8cf506295ae6428f97900b71ed660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44bb115f3a03ac87fe168c4cea48f6d2') in 0.009257 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Resources/Model/autumn-forest-wooden-house/textures/T_ivy+branch_BC.png
+  artifactKey: Guid(bc3e5dd272a78cc4e97f99fac13e25c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/autumn-forest-wooden-house/textures/T_ivy+branch_BC.png using Guid(bc3e5dd272a78cc4e97f99fac13e25c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90d6153c78a9dcb62e88266d764b9fe5') in 0.012878 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Resources/Model/autumn-forest-wooden-house/textures/BUMP_ROAD_BC.png
+  artifactKey: Guid(16999d6f752fe7e4cb92e4ab11476991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/autumn-forest-wooden-house/textures/BUMP_ROAD_BC.png using Guid(16999d6f752fe7e4cb92e4ab11476991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00be37c43fc2c366e1c6287d803ee275') in 0.013932 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Resources/Model/autumn-forest-wooden-house/textures/T_moss_opacity.png
+  artifactKey: Guid(93d1a37f286c39844a4730e1a2c274dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/autumn-forest-wooden-house/textures/T_moss_opacity.png using Guid(93d1a37f286c39844a4730e1a2c274dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c2224b1393d4a9b61f2ffd3e91db388') in 0.008842 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 21.158403 seconds.
+  path: Assets/Resources/Model/free-subway-station-r46-subway.zip
+  artifactKey: Guid(0009332496c81ed409e9aedf316d925d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Resources/Model/free-subway-station-r46-subway.zip using Guid(0009332496c81ed409e9aedf316d925d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'cb65b4669a84010091b359e59227e894') in 0.002915 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
 ========================================================================
 Received Import Request.
-  Time since last request: 819.008986 seconds.
-  path: Assets/Scenes/Test.unity
-  artifactKey: Guid(b2c217531e790ce41ad6e726152460af) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Scenes/Test.unity using Guid(b2c217531e790ce41ad6e726152460af) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
- -> (artifact id: 'e19690b4e2332e3ba1fbaf74029cd17d') in 0.069593 seconds
+  Time since last request: 0.247988 seconds.
+  path: Assets/Resources/Model/free-subway-station-r46-subway.zip
+  artifactKey: Guid(0009332496c81ed409e9aedf316d925d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/free-subway-station-r46-subway.zip using Guid(0009332496c81ed409e9aedf316d925d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b905b8f86d0ffcacc6cfb1fa903626df') in 0.000793 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 13.927057 seconds.
+  path: Assets/Resources/Model/interogation-room
+  artifactKey: Guid(61558e81afb9e344a83c7b19822f98cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/interogation-room using Guid(61558e81afb9e344a83c7b19822f98cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b0d7417ec841bbda0cfdd28f62ef5ec') in 0.000416 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.080472 seconds.
+  path: Assets/Resources/Model/interogation-room/source
+  artifactKey: Guid(596c7364008db8d4fa79853cc18baa90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/interogation-room/source using Guid(596c7364008db8d4fa79853cc18baa90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '536529cc93e97324287f01f1d4f7ccdb') in 0.000439 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.063511 seconds.
+  path: Assets/Resources/Model/interogation-room/source/InterogationRoom.fbx
+  artifactKey: Guid(823e9ac9be7a43d48b44f72c68d260c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/interogation-room/source/InterogationRoom.fbx using Guid(823e9ac9be7a43d48b44f72c68d260c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7073e332db2ef30b8abf73a0b925967') in 0.217064 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 124
+========================================================================
+Received Import Request.
+  Time since last request: 1.916025 seconds.
+  path: Assets/Resources/Model/interogation-room/textures
+  artifactKey: Guid(38d76725d9cb3d94593448c899f8806f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/interogation-room/textures using Guid(38d76725d9cb3d94593448c899f8806f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '158607d5a3c553927acc630896576425') in 0.000584 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.067766 seconds.
+  path: Assets/Resources/Model/interogation-room/textures/Cardboard_ALB.png
+  artifactKey: Guid(df159f592a5108e4a91e70a7320ba150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/interogation-room/textures/Cardboard_ALB.png using Guid(df159f592a5108e4a91e70a7320ba150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a1a890d9e01bd04fca37d430f06cecf') in 0.009372 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Resources/Model/interogation-room/textures/Industrial_Light_ALB.png
+  artifactKey: Guid(46cb2aec95f26504691114cbee7b6976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/interogation-room/textures/Industrial_Light_ALB.png using Guid(46cb2aec95f26504691114cbee7b6976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '965cd951f31dcc8857b62ee0c068510b') in 0.013343 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Resources/Model/interogation-room/textures/Walls_NORM.png
+  artifactKey: Guid(8a1c8479603b3fd41a928fe69dada97b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/interogation-room/textures/Walls_NORM.png using Guid(8a1c8479603b3fd41a928fe69dada97b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '780247b8d962f75a57181530ead155b4') in 0.013572 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Resources/Model/interogation-room/textures/Industrial_Light_ROUGH.png
+  artifactKey: Guid(0d96a7f55616b18438e7fb9fba162a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/interogation-room/textures/Industrial_Light_ROUGH.png using Guid(0d96a7f55616b18438e7fb9fba162a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b074a554726e43308b92c162bdb8c45d') in 0.013055 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Resources/Model/interogation-room/textures/Furniture_ROUGH.png
+  artifactKey: Guid(043d03dc4d440544a97e4e7a6ffe2cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/interogation-room/textures/Furniture_ROUGH.png using Guid(043d03dc4d440544a97e4e7a6ffe2cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '047b181a027d117924e68037da989206') in 0.013455 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Resources/Model/interogation-room/textures/Industrial_Light_EM.png
+  artifactKey: Guid(f3585bb9d7ab9444cb137d0c52762295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/interogation-room/textures/Industrial_Light_EM.png using Guid(f3585bb9d7ab9444cb137d0c52762295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '158f94775e10297f38617c817f230f9c') in 0.009734 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Resources/Model/interogation-room/textures/Environment_METAL.png
+  artifactKey: Guid(e8b7e835f26d6334f9afb01b99e20fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/interogation-room/textures/Environment_METAL.png using Guid(e8b7e835f26d6334f9afb01b99e20fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cc03a02af1a02323ee5b62f5abd21b6') in 0.013702 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Resources/Model/interogation-room/textures/Rope_ROUGH.png
+  artifactKey: Guid(36de20831865fdf44bf2a9aae113f644) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/interogation-room/textures/Rope_ROUGH.png using Guid(36de20831865fdf44bf2a9aae113f644) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bb2ffd4a932bc8b274b379db3360fb1') in 0.008742 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Resources/Model/interogation-room/textures/Pipe_Large_ALB.png
+  artifactKey: Guid(663e1aeebeeba014e8c36002f24c27d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/interogation-room/textures/Pipe_Large_ALB.png using Guid(663e1aeebeeba014e8c36002f24c27d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ceed353517d4ad4cba13d3724bd10a1') in 0.009131 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Resources/Model/interogation-room/textures/Environment_ALB.png
+  artifactKey: Guid(97825f3bb473d7a49ab463945731d2af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/interogation-room/textures/Environment_ALB.png using Guid(97825f3bb473d7a49ab463945731d2af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a7cf1602841a598d337b112c43704cc') in 0.010046 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Resources/Model/interogation-room/textures/Pipe_Small_METAL.png
+  artifactKey: Guid(2716088313dadac46aa88c141b61a4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/interogation-room/textures/Pipe_Small_METAL.png using Guid(2716088313dadac46aa88c141b61a4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfb2484690fa214117c69b2fee21e217') in 0.009430 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Resources/Model/interogation-room/textures/Pipe_Large_NORM.png
+  artifactKey: Guid(8c746fdeef6626e47ab327703d1c4e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/interogation-room/textures/Pipe_Large_NORM.png using Guid(8c746fdeef6626e47ab327703d1c4e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aacf002ee7944140138bea07100dba44') in 0.008551 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Resources/Model/interogation-room/textures/Furniture_ALB.png
+  artifactKey: Guid(797f1f2a6d6a95e4ab1388b683efa2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Model/interogation-room/textures/Furniture_ALB.png using Guid(797f1f2a6d6a95e4ab1388b683efa2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aa2309c7bedea98e3f629abc8e82890') in 0.008799 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: ќпераци€ ввода/вывода была прервана из-за завершени€ потока команд или по запросу приложени€.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
